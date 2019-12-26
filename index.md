@@ -1,4 +1,4 @@
-## 【GithuPages:toy-sample】
+## 【GithubPages:toy-sample】
 
 ### 目次
 - [x]  **前提**
