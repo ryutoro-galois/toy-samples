@@ -24,6 +24,7 @@
 - [【My Interest Map (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
 <br>
 
+- [【HaveFunLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap.html)
 - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
 <br>
 
