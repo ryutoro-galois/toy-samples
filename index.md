@@ -1,7 +1,7 @@
 ## 【GithubPages:toy-sample】
 
 ### 目次
-- [x]  **前提**
+- [x]  **はじめに**
 - [x]  **レポートサンプル (html形式)**
 - [x]  **その他のGithubPagesへのリンク**
 <br> 
