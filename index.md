@@ -3,13 +3,14 @@
 ### 目次
 - [x]  **はじめに**
 - [x]  **レポートサンプル (html形式)**
+- [x]  **その他 (pdf形式)**
 - [x]  **その他のGithubPagesへのリンク**
 <br> 
  
 --- 
 
 ### はじめに
-- オープンデータを活用した可視化事例を公開しています
+- オープンデータを活用した可視化事例などを公開しています
 
 
 ### レポートサンプル (html形式)
@@ -30,6 +31,14 @@
 
 - [【sankyDiagram_sample (2019/12)】](https://ryutoro-galois.github.io/toy-samples/sankeyDiagram_sample.html){:target="_blank"}
 <br>
+
+
+### その他 (pdf形式)
+- [【産後カルタ (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf){:target="_blank"}
+- [【将棋カメラ (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf){:target="_blank"}
+- [【エッジコンピューティング (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf){:target="_blank"}
+<br>
+
 
 ---
 
