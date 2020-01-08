@@ -27,7 +27,7 @@
 
 - [【HaveFunLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap.html){:target="_blank"}
 - [【HaveFunLunch Map All版 (2020/01)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_AllData.html){:target="_blank"}
-- [【HaveFunLunch Map (ラーメン) (2020/01)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_AllData_Noodles.html){:target="_blank"}
+- [【HaveFunRamen Map (ラーメン) (2020/01)】](https://ryutoro-galois.github.io/toy-samples/HaveFunRamenMap.html){:target="_blank"}
 <br>
 - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html){:target="_blank"}
 <br>
