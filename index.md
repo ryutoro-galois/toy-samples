@@ -26,9 +26,18 @@
 <br>
 
 - [【HaveFunLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap.html){:target="_blank"}
-- [【HaveFunLunch Map All版 (2020/01)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_AllData.html){:target="_blank"}
 - [【HaveFunRamen Map (ラーメン) (2020/01)】](https://ryutoro-galois.github.io/toy-samples/HaveFunRamenMap.html){:target="_blank"}
 <br>
+- [【HaveFunLunch Map (和食_肉)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g01_Japanese_Meat.html){:target="_blank"}
+- [【HaveFunLunch Map (和食_魚)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g02_Japanese_Fish.html){:target="_blank"}
+- [【HaveFunLunch Map (うどん・そば)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g03_Japanese_Udon_Soba.html){:target="_blank"}
+- [【HaveFunLunch Map (洋食)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g04_Western.html){:target="_blank"}
+- [【HaveFunLunch Map (イタリアン)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g05_Itarian.html){:target="_blank"}
+- [【HaveFunLunch Map (中華料理)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g06_Chinese.html){:target="_blank"}
+- [【HaveFunLunch Map (韓国料理)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g07_Korean.html){:target="_blank"}
+- [【HaveFunLunch Map (エスニック)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g08_Ethnic.html){:target="_blank"}
+<br>
+
 - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html){:target="_blank"}
 <br>
 
