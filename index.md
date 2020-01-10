@@ -2,7 +2,6 @@
 
 <style>
 table, th, td {
-    border:none;
     border-bottom:solid 1px silver;
 }
 </style>
