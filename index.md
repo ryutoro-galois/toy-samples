@@ -1,5 +1,11 @@
 ## 【GithubPages:toy-sample】
 
+<style>
+table, th, td {
+    border:none;
+}
+</style>
+
 ### 目次
 - [x]  **はじめに**
 - [x]  **レポートサンプル (html形式)**
@@ -59,3 +65,11 @@
 - [【sumo-predictor】](https://ryutoro-galois.github.io/sumo-predictor/){:target="_blank"}
 
 QED.
+
+
+- ssss
+
+  a|b|c
+  a|b|c
+  a|b|c
+  ---|---|---
