@@ -68,7 +68,7 @@ QED.
 
 
 - **HaveFunLunchMap (2020/01~):**
-  |x|x|x|
+  | x1 | x2 | x3 |
   |:---|:---|:---|
   | [【和食_肉】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g01_Japanese_Meat.html){:target="_blank"} | [【和食_魚】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g02_Japanese_Fish.html){:target="_blank"} | [【うどん・そば】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g03_Japanese_Udon_Soba.html){:target="_blank"} |
   | [【洋食】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g04_Western.html){:target="_blank"} | [【イタリアン】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g05_Itarian.html){:target="_blank"} | [【中華料理】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g06_Chinese.html){:target="_blank"} |
