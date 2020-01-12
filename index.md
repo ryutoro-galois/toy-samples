@@ -32,16 +32,22 @@ table, th, td {
 <br>
 
 - **HaveFunLunchMap:**
-  - [【和食_肉Map】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g01_Japanese_Meat.html)
-  - [【和食_魚Map】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g02_Japanese_Fish.html)
-  - [【うどん・そばMap】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g03_Japanese_Udon_Soba.html)
-  - [【洋食Map】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g04_Western.html)
-  - [【イタリアンMap】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g05_Itarian.html)
-  - [【中華料理Map】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g06_Chinese.html)
-  - [【韓国料理Map】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g07_Korean.html)
-  - [【エスニックMap】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g08_Ethnic.html)
-  - [【ラーメンMap (HaveFunRamenMap)】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap_g09_Ramen.html)
+  - [【HaveFunLunchMap】](https://ryutoro-galois.github.io/toy-samples/HaveFunLunchMap.html)
   <br>
+
+- **HaveFun[○○]Map:**
+  - 料理ジャンル毎のお店のマップ
+    - ランチ、会食、飲み会、プライベート等、幅広い用途で利用可能
+    -【和食_肉 (Washoku_Meat)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g01_Washoku_Meat_Map.html)
+    -【和食_魚 (Washoku_Fish)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g02_Washoku_Fish_Map.html)
+    -【洋食 (Western)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g03_WesternFood_Map.html)
+    -【イタリアン (Itarian)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g04_ItarianFood_Map.html)
+    -【中華料理 (Chinese)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g05_ChineseFood_Map.html)
+    -【韓国料理 (Korean)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g06_KoreanFood_Map.html)
+    -【エスニック (Ethnic)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g07_EthnicFood_Map.html)
+    -【うどん・そば (Udon & Soba)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g08_Udon_Soba_Map.html)
+    -【ラーメン (Ramen; Noodles)】(https://ryutoro-galois.github.io/toy-samples/HaveFun_g09_Ramen_Map.html)
+    <br>
 
 
 - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
