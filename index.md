@@ -50,6 +50,25 @@ table, th, td {
     <br>
 
 
+- **エリア毎のレストランマップ:**
+  - 【新宿・代々木】
+    - [和食_肉](https://ryutoro-galois.github.io/toy-samples/HaveFun_g01_Washoku_Meat_Map.html),　  
+    [和食_魚](https://ryutoro-galois.github.io/toy-samples/HaveFun_g02_Washoku_Fish_Map.html),　
+    [洋食](https://ryutoro-galois.github.io/toy-samples/HaveFun_g03_WesternFood_Map.html),　
+    [イタリアン](https://ryutoro-galois.github.io/toy-samples/HaveFun_g04_ItarianFood_Map.html),　
+    [中華料理](https://ryutoro-galois.github.io/toy-samples/HaveFun_g05_ChineseFood_Map.html),　
+    [韓国料理](https://ryutoro-galois.github.io/toy-samples/HaveFun_g06_KoreanFood_Map.html),　
+    [エスニック](https://ryutoro-galois.github.io/toy-samples/HaveFun_g07_EthnicFood_Map.html),　
+    [うどん・そば](https://ryutoro-galois.github.io/toy-samples/HaveFun_g08_Udon_Soba_Map.html),　
+    [ラーメン](https://ryutoro-galois.github.io/toy-samples/HaveFun_g09_Ramen_Map.html)
+  - 【四ツ谷】
+  - 【飯田橋・神楽坂】
+  - 【初台・幡ヶ谷】
+  - 【中野】
+  - 【荻窪】
+  - 【吉祥寺】
+  <br>
+
 - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
 <br>
 
