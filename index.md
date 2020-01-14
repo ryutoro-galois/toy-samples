@@ -50,7 +50,7 @@ table, th, td {
     <br>
 
 
-- **エリア毎のグルメマップ:**
+- **Have Fun Gourmet Map (エリア毎のグルメマップ):**
   - 【新宿・代々木】
     - [<u>和食_肉</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g01_Washoku_Meat_Map_[shinjuku_yoyogi].html)　[<u>和食_魚</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g02_Washoku_Fish_Map_[shinjuku_yoyogi].html)　[<u>洋食</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g03_WesternFood_Map_[shinjuku_yoyogi].html)<br>[<u>イタリアン</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g04_ItarianFood_Map_[shinjuku_yoyogi].html)　[<u>中華料理</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g05_ChineseFood_Map_[shinjuku_yoyogi].html)　[<u>韓国料理</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g06_KoreanFood_Map_[shinjuku_yoyogi].html)<br>[<u>エスニック</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g07_EthnicFood_Map_[shinjuku_yoyogi].html)　[<u>うどん・そば</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g08_Udon_Soba_Map_[shinjuku_yoyogi].html)　[<u>ラーメン</u>](https://ryutoro-galois.github.io/toy-samples/HaveFun_g09_Ramen_Map_[shinjuku_yoyogi].html)
   - 【四ツ谷】
