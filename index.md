@@ -28,7 +28,7 @@ table, th, td {
   <br>
 
 - **グルメマップ:**
-  - [【Have Fun Gourmet Map (2020/01)】](https://ryutoro-galois.github.io/toy-samples/)
+  - [【Have Fun Gourmet Map (2020/01)】](https://data-strategy-mlops.github.io/toy-samples/)
   - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
   - [【新宿3丁目はしごプラン（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_hashigo_plan_20191106.html)
 <br>
