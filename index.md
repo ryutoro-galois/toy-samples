@@ -7,19 +7,19 @@ table, th, td {
 </style>
 
 ### 目次
-- [x]  **はじめに**
-- [x]  **レポートサンプル (html形式)**
-- [x]  **その他**
-- [x]  **GithubPagesへのリンク**
+- [x]  **1. はじめに**
+- [x]  **2. レポートサンプル (html形式)**
+- [x]  **3. その他**
+- [x]  **4. Link to GithubPages**
 <br> 
  
 --- 
 
-### はじめに
+### 1. はじめに
 - オープンデータを活用した可視化事例などを公開しています
+<br><br>
 
-
-### レポートサンプル (html形式)
+### 2. レポートサンプル
 
 - **お役立ちマップ:**
   - [【中野区お役立ちマップ_v1（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_20191107.html)
@@ -39,7 +39,7 @@ table, th, td {
 <br>
 
 
-### その他
+### 3. その他
 - [【産後カルタ(pdf) (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf)
 - [【将棋カメラ(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
 - [【エッジコンピューティング(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
@@ -49,7 +49,7 @@ table, th, td {
 
 ---
 
-### GithubPagesへのリンク
+### 4. Link to GithubPages
 - [【keiba-predictor】](https://ryutoro-galois.github.io/keiba-predictor/)
 - [【sumo-predictor】](https://ryutoro-galois.github.io/sumo-predictor/)
 
