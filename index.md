@@ -45,8 +45,16 @@ table, th, td {
 <br>
 
 
+### 3. Data Science Session
+- [【[#1]: Analysis Types in Data Science】](s01_Analysis_Types_in_Data_Science.pdf)
+- [【[#2]: Practical Cases of ML Model Building Process 】](.pdf) (TBA)
+- [【[#3]: Deep Learning (Image data part) & Image-related API】](.pdf) (TBA)
+- [【[#4]: Deep Learning (Text data part) & Text-related API】](.pdf) (TBA)
+- [【[#5]: Recent Trends of Edge-Computing】](.pdf)
+<br>
 
-### 3. その他
+
+### 4. その他
 - [【産後カルタ(pdf) (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf)
 - [【将棋カメラ(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
 - [【エッジコンピューティング(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
@@ -56,7 +64,7 @@ table, th, td {
 
 ---
 
-### 4. Link to GithubPages
+### 5. Link to GithubPages
 - [【keiba-predictor】](https://ryutoro-galois.github.io/keiba-predictor/)
 - [【sumo-predictor】](https://ryutoro-galois.github.io/sumo-predictor/)
 
