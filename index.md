@@ -9,8 +9,9 @@ table, th, td {
 ### 目次
 - [x]  **1. はじめに**
 - [x]  **2. レポートサンプル (html形式)**
-- [x]  **3. その他**
-- [x]  **4. Link to GithubPages**
+- [x]  **3. Data Science Session**
+- [x]  **4. その他**
+- [x]  **5. Link to GithubPages**
 <br> 
  
 --- 
@@ -46,11 +47,11 @@ table, th, td {
 
 
 ### 3. Data Science Session
-- [【[#1]: Analysis Types in Data Science】](s01_Analysis_Types_in_Data_Science.pdf)
-- [【[#2]: Practical Cases of ML Model Building Process 】](.pdf) (TBA)
-- [【[#3]: Deep Learning (Image data part) & Image-related API】](.pdf) (TBA)
-- [【[#4]: Deep Learning (Text data part) & Text-related API】](.pdf) (TBA)
-- [【[#5]: Recent Trends of Edge-Computing】](.pdf)
+- [【[#1]: Analysis Types in Data Science】](https://ryutoro-galois.github.io/toy-samples/s01_Analysis_Types_in_Data_Science.pdf)
+- [【[#2]: Practical Cases of ML Model Building Process 】](https://ryutoro-galois.github.io/toy-samples/s02_xx.pdf) (TBA)
+- [【[#3]: Deep Learning (Image data part) & Image-related API】](https://ryutoro-galois.github.io/toy-samples/s03_xx.pdf) (TBA)
+- [【[#4]: Deep Learning (Text data part) & Text-related API】](https://ryutoro-galois.github.io/toy-samples/s04_xx.pdf) (TBA)
+- [【[#5]: Recent Trends of Edge-Computing】](https://ryutoro-galois.github.io/toy-samples/s05_RecentTrends_in_EdgeComputing.pdf)
 <br>
 
 
