@@ -1,0 +1,146 @@
+Fatal error: cannot open file '/home/ubuntu/Rwork_gganimate/Rpgm/render_gganimate_r2_GDP.R': No such file or directory
+R version 3.6.2 (2019-12-12)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 18.04.3 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.7.1
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.7.1
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_3.6.2
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+
+Attaching package: ‘glue’
+
+The following object is masked from ‘package:dplyr’:
+
+    collapse
+
+
+Attaching package: ‘formattable’
+
+The following object is masked from ‘package:plotly’:
+
+    style
+
+── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
+✔ tibble  2.1.3     ✔ purrr   0.3.3
+✔ tidyr   1.0.2     ✔ stringr 1.4.0
+✔ readr   1.3.1     ✔ forcats 0.4.0
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ glue::collapse() masks dplyr::collapse()
+✖ plotly::filter() masks dplyr::filter(), stats::filter()
+✖ dplyr::lag()     masks stats::lag()
+
+Attaching package: ‘janitor’
+
+The following objects are masked from ‘package:stats’:
+
+    chisq.test, fisher.test
+
+Linking to GEOS 3.6.2, GDAL 2.2.3, PROJ 4.9.3
+[1] ‘0.8.6.1’
+[1] ‘2.0’
+[1] "/home/ubuntu/Rwork_gganimate"
+
+
+processing file: render_gganimate_r2_GDP.Rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |..........                                                            |  14%
+   inline R code fragments
+
+  |                                                                              |....................                                                  |  29%
+label: setup (with options) 
+List of 3
+ $ echo   : logi FALSE
+ $ results: chr "asis"
+ $ cache  : logi FALSE
+
+  |                                                                              |..............................                                        |  43%
+  ordinary text without R code
+
+  |                                                                              |........................................                              |  57%
+label: unnamed-chunk-1 (with options) 
+List of 1
+ $ echo: logi FALSE
+
+Parsed with column specification:
+cols(
+  `Series Name` = col_character(),
+  `Series Code` = col_character(),
+  `Country Name` = col_character(),
+  `Country Code` = col_character(),
+  `1990 [YR1990]` = col_character(),
+  `2000 [YR2000]` = col_character(),
+  `2009 [YR2009]` = col_character(),
+  `2010 [YR2010]` = col_character(),
+  `2011 [YR2011]` = col_character(),
+  `2012 [YR2012]` = col_character(),
+  `2013 [YR2013]` = col_character(),
+  `2014 [YR2014]` = col_character(),
+  `2015 [YR2015]` = col_character(),
+  `2016 [YR2016]` = col_character(),
+  `2017 [YR2017]` = col_character(),
+  `2018 [YR2018]` = col_character()
+)
+Parsed with column specification:
+cols(
+  country_name = col_character(),
+  country_code = col_character(),
+  year = col_double(),
+  value = col_double()
+)
+  |                                                                              |..................................................                    |  71%
+  ordinary text without R code
+
+  |                                                                              |............................................................          |  86%
+label: unnamed-chunk-2 (with options) 
+List of 3
+ $ dev     : chr "png"
+ $ interval: num 0.5
+ $ echo    : logi FALSE
+
+  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+output file: render_gganimate_r2_GDP.knit.md
+
+/home/ubuntu/miniconda3/bin/pandoc +RTS -K512m -RTS render_gganimate_r2_GDP.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash-ascii_identifiers+smart --output gganimate_sample_r2_GDP.html --email-obfuscation none --self-contained --from=markdown+autolink_bare_uris+tex_math_single_backslash-implicit_figures --metadata=hoge --standalone --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_collapsed=1 --variable toc_smooth_scroll=1 --variable toc_print=1 --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --highlight-style espresso --variable 'theme:lumen' --include-in-header /tmp/RtmpGYPu4o/rmarkdown-str277763657e5f.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmd/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmd/lua/latex-div.lua 
+
+Output created: gganimate_sample_r2_GDP.html
+There were 11 warnings (use warnings() to see them)
