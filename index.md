@@ -39,6 +39,13 @@ table, th, td {
 <br>
 
 
+- **Animation Plot:**
+  - [【sample1 (2020/02)】](https://ryutoro-galois.github.io/toy-samples/animationPlot_01.html)
+  - [【sample2 (2020/02)】](https://ryutoro-galois.github.io/toy-samples/animationPlot_02.html)
+<br>
+
+
+
 ### 3. その他
 - [【産後カルタ(pdf) (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf)
 - [【将棋カメラ(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
