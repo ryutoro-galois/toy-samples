@@ -23,15 +23,15 @@ table, th, td {
 ### 2. Report Samples
 
 - **Useful Map:**
-  - [【中野区お役立ちマップ_v1（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_20191107.html)
-  - [【中野区お役立ちマップ_v2（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v2_20191120.html)
-  - [【中野区お役立ちマップ_v3（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v3_20191125.html)
+  - [【Nakanoku Map v1（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_20191107.html)
+  - [【Nakanoku Map v2（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v2_20191120.html)
+  - [【Nakanoku Map v3（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v3_20191125.html)
   <br>
 
 - **Gourmet Map:**
   - [【Have Fun Gourmet Map (2020/01)】](https://data-strategy-mlops.github.io/toy-samples/)
   - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
-  - [【新宿3丁目はしごプラン（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_hashigo_plan_20191106.html)
+  - [【Shinjuku 3-chome Hashigo Plan（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_hashigo_plan_20191106.html)
 <br>
   
 
@@ -61,6 +61,7 @@ table, th, td {
 - [【Edge Computing(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
 - [【My Interest Map(html; JP) (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
 - [【My Interest Map(html; EN) (2020/05)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20200520_English.html)
+- [【Machine Learning Glossary (2020/05)】](https://ryutoro-galois.github.io/toy-samples/machine-learning-glossary.html)
 <br>
 
 
