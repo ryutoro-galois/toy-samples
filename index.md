@@ -6,29 +6,29 @@ table, th, td {
 }
 </style>
 
-### 目次
-- [x]  **1. はじめに**
-- [x]  **2. レポートサンプル (html形式)**
+### Contents
+- [x]  **1. Preface**
+- [x]  **2. Report Samples (html)**
 - [x]  **3. Data Science Session**
-- [x]  **4. その他**
+- [x]  **4. Others**
 - [x]  **5. Link to GithubPages**
 <br> 
  
 --- 
 
-### 1. はじめに
-- オープンデータを活用した可視化事例などを公開しています
+### 1. Preface
+- Publish examples of visualization using open data
 <br><br>
 
-### 2. レポートサンプル
+### 2. Report Samples
 
-- **お役立ちマップ:**
+- **Useful Map:**
   - [【中野区お役立ちマップ_v1（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_20191107.html)
   - [【中野区お役立ちマップ_v2（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v2_20191120.html)
   - [【中野区お役立ちマップ_v3（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_nakanoku_v3_20191125.html)
   <br>
 
-- **グルメマップ:**
+- **Gourmet Map:**
   - [【Have Fun Gourmet Map (2020/01)】](https://data-strategy-mlops.github.io/toy-samples/)
   - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
   - [【新宿3丁目はしごプラン（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_hashigo_plan_20191106.html)
@@ -55,11 +55,12 @@ table, th, td {
 <br>
 
 
-### 4. その他
-- [【産後カルタ(pdf) (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf)
-- [【将棋カメラ(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
-- [【エッジコンピューティング(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
-- [【My Interest Map(html) (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
+### 4. Others
+- [【Sango Karuta(pdf) (2019/07)】](MLLabSpace_20190725_01_SangoKaruta.pdf)
+- [【Shogi Camera(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
+- [【Edge Computing(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
+- [【My Interest Map(html; JP) (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
+- [【My Interest Map(html; EN) (2020/05)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20200520_English.html)
 <br>
 
 
