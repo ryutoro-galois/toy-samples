@@ -62,6 +62,7 @@ table, th, td {
 - [【My Interest Map(html; JP) (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
 - [【My Interest Map(html; EN) (2020/05)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20200520_English.html)
 - [【Machine Learning Glossary (2020/05)】](https://ryutoro-galois.github.io/toy-samples/machine-learning-glossary.html)
+- [【App User Journey (2020/08)】](https://ryutoro-galois.github.io/toy-samples/sankyDiagram_AppUserJourney.html)
 <br>
 
 
