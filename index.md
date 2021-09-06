@@ -60,6 +60,7 @@ table, th, td {
 - [【Shogi Camera(pdf) (2019/07)】](MLLabSpace_20190725_02_ShogiCamera.pdf)
 - [【Edge Computing(pdf) (2019/07)】](MLLabSpace_20190725_03_EdgeComputing.pdf)
 - [【My Interest Map(html; JP) (2019/11)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20191127.html)
+- [【My Interest Map(html; EN)】](https://ryutoro-galois.github.io/toy-samples/interest_map.html)
 - [【My Interest Map(html; EN) (2020/05)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20200520_English.html)
 - [【My Interest Map(html; EN) (2021/04)】](https://ryutoro-galois.github.io/toy-samples/interest_map_20210407_English.html)
 - [【Machine Learning Glossary (2020/05)】](https://ryutoro-galois.github.io/toy-samples/machine-learning-glossary.html)
