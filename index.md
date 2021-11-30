@@ -29,7 +29,16 @@ table, th, td {
   <br>
 
 - **Gourmet Map:**
-  - [【Have Fun Gourmet Map (2020/01)】](https://data-strategy-mlops.github.io/toy-samples/)
+  - 【Have Fun Gourmet Map (2020/01)】
+    - [【Washoku-Meat】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g01_Washoku_Meat_Map_[nishiazabu].html)
+    - [【Washoku-Fish】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g02_Washoku_Fish_Map_[nishiazabu].html)
+    - [【Western】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g03_WesternFood_Map_[nishiazabu].html)
+    - [【Itarian】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g04_ItarianFood_Map_[nishiazabu].html)
+    - [【Korean】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g06_KoreanFood_Map_[nishiazabu].html)
+    - [【Ethnic】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g07_EthnicFood_Map_[nishiazabu].html)
+    - [【Udon_Soba】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g08_Udon_Soba_Map_[nishiazabu].html)
+    - [【Ramen】](https://ryutoro-galois.github.io/toy-samples/HaveFun_g09_Ramen_Map_[nishiazabu].html)<br><br>
+
   - [【NintamaLunch Map (2019/12)】](https://ryutoro-galois.github.io/toy-samples/leaflet_LunchMap_[Shinjuku-ku].html)
   - [【Shinjuku 3-chome Hashigo Plan（2019/11）】](https://ryutoro-galois.github.io/toy-samples/leaflet_sample_hashigo_plan_20191106.html)
 <br>
