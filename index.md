@@ -29,7 +29,7 @@ table, th, td {
   <br>
 
 - **Gourmet Map:**
-  - 【Have Fun Gourmet Map (2020/01)】
+  - 【Gourmet Map】
     - [【Washoku-Meat】](https://ryutoro-galois.github.io/toy-samples/gourmetMap_g01_Washoku_Meat_Map_[nishiazabu].html)
     - [【Washoku-Fish】](https://ryutoro-galois.github.io/toy-samples/gourmetMap_g02_Washoku_Fish_Map_[nishiazabu].html)
     - [【Western】](https://ryutoro-galois.github.io/toy-samples/gourmetMap_g03_WesternFood_Map_[nishiazabu].html)
