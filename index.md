@@ -57,11 +57,8 @@ table, th, td {
 
 
 ### 3. Data Science Session
-- [【(1): Analysis Types in Data Science】](https://ryutoro-galois.github.io/toy-samples/s01_Analysis_Types_in_Data_Science.pdf)
-- [【(2): Practical Cases of ML Model Building Process 】](https://ryutoro-galois.github.io/toy-samples/s02_xx.pdf) (TBA)
-- [【(3): Deep Learning (Image data part) & Image-related API】](https://ryutoro-galois.github.io/toy-samples/s03_xx.pdf) (TBA)
-- [【(4): Deep Learning (Text data part) & Text-related API】](https://ryutoro-galois.github.io/toy-samples/s04_xx.pdf) (TBA)
-- [【(5): Recent Trends of Edge-Computing】](https://ryutoro-galois.github.io/toy-samples/s05_RecentTrends_in_EdgeComputing.pdf)
+- [【Analysis Types in Data Science】](https://ryutoro-galois.github.io/toy-samples/s01_Analysis_Types_in_Data_Science.pdf)
+- [【Recent Trends of Edge-Computing】](https://ryutoro-galois.github.io/toy-samples/s05_RecentTrends_in_EdgeComputing.pdf)
 <br>
 
 
